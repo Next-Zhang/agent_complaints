@@ -1,0 +1,6 @@
+# Web framework; standard extras include Uvicorn, Jinja2, httpx,
+# and python-multipart for templates, TestClient, and HTML forms.
+fastapi[standard]==0.115.10
+
+# Test runner
+pytest==8.3.4
